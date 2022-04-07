@@ -16,7 +16,7 @@ This application was designed intended for students at Ontario Tech University t
 
 ![Drawer](/img/drawer.png)
 
-Students can click the bottom right button to get a random motivational quote.
+**Students can click the bottom right button to get a random motivational quote.**
 
 ![Feature](/img/notification.png)
 
@@ -32,4 +32,4 @@ Students can click the bottom right button to get a random motivational quote.
 
 ![Map](/img/map.png)
 
-The map page has not performed smoothly, have to click the button a few times to update the current location. Will fix it in the future.
+**The map page has not performed smoothly yet, users have to click the button a few times to update the current location. Will be fixed in the future.**
