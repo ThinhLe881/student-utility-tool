@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "366333221942",
+    "project_id": "student-utility-tool",
+    "storage_bucket": "student-utility-tool.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366333221942:android:320c271647806ace8f4c97",
+        "android_client_info": {
+          "package_name": "com.thinh.student_utility_tool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366333221942-b6f5ior5ncti44qa0ca7a7euch7k2ida.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp8khVEiNQax72ig9d4LOlU0dNajNiLzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366333221942-b6f5ior5ncti44qa0ca7a7euch7k2ida.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
