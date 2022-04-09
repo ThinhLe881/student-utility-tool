@@ -191,6 +191,7 @@ class SimpleNotification {
                   ? const Text("Website information copied.")
                   : null),
     );
+    return null;
   }
 
   //gets a random quote from the API given using HTTP requests
@@ -230,5 +231,6 @@ class SimpleNotification {
         content: Text("-$author-"),
       ),
     );
+    return null;
   }
 }

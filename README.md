@@ -33,3 +33,7 @@ This application was designed intended for students at Ontario Tech University t
 ![Map](/img/map.png)
 
 **The map page has not performed smoothly yet, users have to click the button a few times to update the current location. Will be fixed in the future.**
+
+## Other Resources:
+
+[Random Quote Generator API](https://type.fit/api/quotes)
