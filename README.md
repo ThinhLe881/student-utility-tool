@@ -2,6 +2,12 @@
 
 This application was designed intended for students at Ontario Tech University to use in order to manage their academic school life.
 
+## Team Members
+- Thinh Le
+- Benjamin Tsoumagas
+- Andy Wang
+- Ting Jian Wu
+
 ## Features
 
 ### New Account Registration
