@@ -1,6 +1,6 @@
-# Student Utility Tool
+# Student Utility App
 
-This application was designed for students at Ontario Tech University to assist them in their academic life, using Flutter and Google Firebase.
+This mobile application was designed for students at Ontario Tech University to assist them in their academic life, using Flutter and Google Firebase.
 
 ## Team Members
 
