@@ -1,12 +1,13 @@
 # Student Utility Tool
 
-This application was designed intended for students at Ontario Tech University to use in order to manage their academic school life.
+This application was designed for students at Ontario Tech University to assist them in their academic life, using Flutter and Google Firebase.
 
 ## Team Members
-- Thinh Le
-- Benjamin Tsoumagas
-- Andy Wang
-- Ting Jian Wu
+
+-   Thinh Le
+-   Benjamin Tsoumagas
+-   Andy Wang
+-   Ting Jian Wu
 
 ## Features
 
@@ -18,7 +19,7 @@ This application was designed intended for students at Ontario Tech University t
 
 ![Login](/img/login.png)
 
-### Home page along with many other built in features.
+### Home page
 
 ![Drawer](/img/drawer.png)
 
@@ -26,15 +27,15 @@ This application was designed intended for students at Ontario Tech University t
 
 ![Feature](/img/notification.png)
 
-### Course Management.
+### Course Management
 
 ![Course](/img/course.png)
 
-### Grade Calculator.
+### Grade Calculator
 
 ![Grade](/img/grade.png)
 
-### Student Map.
+### Student Map
 
 ![Map](/img/map.png)
 
